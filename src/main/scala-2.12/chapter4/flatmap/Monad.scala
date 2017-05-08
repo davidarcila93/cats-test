@@ -1,4 +1,4 @@
-package chapter4.section1
+package chapter4.flatmap
 
 import scala.language.higherKinds
 

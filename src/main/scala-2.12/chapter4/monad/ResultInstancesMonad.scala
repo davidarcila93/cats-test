@@ -1,4 +1,4 @@
-package chapter4.section2
+package chapter4.monad
 
 import cats.Monad
 import chapter3.{Failure, Result, Success, Warning}
