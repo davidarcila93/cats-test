@@ -1,7 +1,7 @@
-package chapter4.monad
+package monads.monad
 
 import cats.Monad
-import chapter3.{Failure, Result, Success, Warning}
+import functors.{Failure, Result, Success, Warning}
 
 import scala.annotation.tailrec
 

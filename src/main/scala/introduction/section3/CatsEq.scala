@@ -1,6 +1,6 @@
-package chapter1.section3
+package introduction.section3
 
-import chapter1.section1.Cat
+import introduction.section1.Cat
 import cats.Eq
 import cats.syntax.eq._
 import cats.instances.option._

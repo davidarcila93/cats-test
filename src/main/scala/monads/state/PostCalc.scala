@@ -1,4 +1,4 @@
-package chapter4.state
+package monads.state
 
 import cats.data.State
 

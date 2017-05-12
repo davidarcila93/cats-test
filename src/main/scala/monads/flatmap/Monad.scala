@@ -1,4 +1,4 @@
-package chapter4.flatmap
+package monads.flatmap
 
 import scala.language.higherKinds
 

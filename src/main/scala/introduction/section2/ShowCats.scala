@@ -1,6 +1,6 @@
-package chapter1.section2
+package introduction.section2
 import cats.Show
-import chapter1.section1.Cat
+import introduction.section1.Cat
 import cats.syntax.show._
 import cats.instances.int._
 import cats.instances.string._

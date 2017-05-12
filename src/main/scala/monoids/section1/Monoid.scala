@@ -1,4 +1,4 @@
-package chapter2.section1
+package monoids.section1
 
 trait Semigroup[A] {
   def combine(x: A, y: A): A

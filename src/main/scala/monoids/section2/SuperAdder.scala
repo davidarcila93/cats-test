@@ -1,4 +1,4 @@
-package chapter2.section2
+package monoids.section2
 
 import cats.Semigroup
 import cats.Monoid

@@ -1,4 +1,4 @@
-package chapter4.writer
+package monads.writer
 
 import scala.concurrent.duration.Duration
 import scala.concurrent.{Await, Future}
