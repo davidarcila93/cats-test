@@ -1,15 +1,13 @@
-package monads.writer
+package monads
 
-import scala.concurrent.duration.Duration
-import scala.concurrent.{Await, Future}
 import cats.data.Writer
 import cats.instances.vector._
 import cats.syntax.applicative._
-import cats.syntax.functor._
-import cats.syntax.flatMap._
 import cats.syntax.writer._
 
 import scala.collection.immutable.Seq
+import scala.concurrent.duration.Duration
+import scala.concurrent.{Await, Future}
 
 object Factorial {
 

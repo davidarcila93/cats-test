@@ -1,4 +1,4 @@
-package monads.state
+package monads
 
 import cats.data.State
 
