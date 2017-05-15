@@ -1,4 +1,4 @@
-package introduction.section1
+package introduction
 
 trait Printable[A] {
   def format(a: A): String
